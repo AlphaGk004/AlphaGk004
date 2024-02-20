@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AlphaGK</h1>
 <h3 align="center">Ethical Hacker & Software Development</h3>
-
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphagk002&label=Profile%20views&color=0e75b6&style=flat" alt="alphagk002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphagk002" alt="alphagk002" /></a> </p>
